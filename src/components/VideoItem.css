@@ -1,0 +1,10 @@
+.video-item{
+    display: flex !important;
+    align-items: center !important;
+    cursor:pointer;
+}
+
+/* .video-item has extra item as there is a hidden class, however the .item will make it more important */
+.video-item.item img{
+    max-width: 180px;
+}
