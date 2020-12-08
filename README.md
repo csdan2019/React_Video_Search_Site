@@ -1,3 +1,5 @@
+React Site is used to search videos.  APIs used are from youtube.
+
 ![alt text](https://github.com/csdan2019/React_Video_Search_Site/blob/master/reactvideo.png)
 # Getting Started with Create React App
 
